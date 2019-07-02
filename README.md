@@ -19,6 +19,9 @@ License Plate Recognition For Car With Python And OpenCV
 
 
 ##### QQQ
+环境配置—Ubuntu 16.04 安装Opencv 3.4.3
+https://www.jianshu.com/p/f646448da265
+
 No CMAKE_CXX_COMPILER could be found.
 
 Tell CMake where to find the compiler by setting either the environment 
