@@ -43,9 +43,11 @@ For Debian/Ubuntu:
 Python 2
 
 sudo apt-get install python-imaging python-pil.imagetk
+
 Python 3
 
 sudo apt-get install python3-pil python3-pil.imagetk
+
 For Archlinux:
 
 sudo pacman -S python-pillow  
