@@ -33,3 +33,19 @@ to the compiler, or to the compiler name if it is in the PATH.
 sudo apt-get update
 
 sudo apt-get install -y build-essential
+
+##
+from PIL import Image, ImageTK 
+ImportError: cannot import name 'ImageTK' 
+
+For Debian/Ubuntu:
+
+Python 2
+
+sudo apt-get install python-imaging python-pil.imagetk
+Python 3
+
+sudo apt-get install python3-pil python3-pil.imagetk
+For Archlinux:
+
+sudo pacman -S python-pillow  
